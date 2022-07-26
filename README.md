@@ -4,11 +4,10 @@
 - I'm currently collaborating with BigeroData project where I'm developing software for Data engineering stuff and to handle IoT Devices (Raspeberry).
 - In addition, in my free time I'm collaborating in other projects such as calculator app for [Mr Market Game](https://crowdfunding.boxlab.es/mr-market-game/3092)
 
-## 🥋 Katas
 ## 🔨 Public projects in progress
 ## 🚀 Public projects deployed
 ## 🗄️ Contributions
-
+## 🥋 Katas
 
 <!--
 **Marius9595/Marius9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
