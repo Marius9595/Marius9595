@@ -8,6 +8,7 @@
 ## 🚀 Public projects deployed
 ## 🗄️ Contributions
 ## 🥋 Katas
+* [String Calculator with Java](https://github.com/Marius9595/string_calculator_java)
 
 <!--
 **Marius9595/Marius9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
