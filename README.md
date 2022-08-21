@@ -9,6 +9,7 @@
 ## 🗄️ Contributions
 ## 🥋 Katas
 * [String Calculator with Java](https://github.com/Marius9595/string_calculator_java)
+* [Manhattan Distance Calculator with Java](https://github.com/Marius9595/manhattan_distance_kata_java)
 
 <!--
 **Marius9595/Marius9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
