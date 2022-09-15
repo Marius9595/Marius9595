@@ -5,6 +5,7 @@
 - In addition, in my free time I'm collaborating in other projects such as calculator app for [Mr Market Game](https://crowdfunding.boxlab.es/mr-market-game/3092)
 
 ## 🔨 Public projects in progress
+* [DataFrameModel](https://github.com/Marius9595/DataFrameModel)
 ## 🚀 Public projects deployed
 ## 🗄️ Contributions
 ## 🥋 Katas
