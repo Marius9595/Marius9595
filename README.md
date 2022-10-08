@@ -1,7 +1,7 @@
 # Hi there 👋 This is where I keep all my programming stuff 😄
 
 - I often train through katas applying TDD since I was lucky to be trainee at [Lean Mind](https://leanmind.es/es/)
-- I'm currently collaborating with BigeroData project where I'm developing software for Data engineering stuff and to handle IoT Devices (Raspeberry).
+- I've collaborated with BigeroData project where I've developed software for Data engineering stuff and to handle IoT Devices (Raspeberry).
 - In addition, in my free time I'm collaborating in other projects such as calculator app for [Mr Market Game](https://crowdfunding.boxlab.es/mr-market-game/3092)
 
 ## 🔨 Public projects
