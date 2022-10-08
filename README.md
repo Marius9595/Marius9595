@@ -4,9 +4,8 @@
 - I'm currently collaborating with BigeroData project where I'm developing software for Data engineering stuff and to handle IoT Devices (Raspeberry).
 - In addition, in my free time I'm collaborating in other projects such as calculator app for [Mr Market Game](https://crowdfunding.boxlab.es/mr-market-game/3092)
 
-## 🔨 Public projects in progress
+## 🔨 Public projects
 * [DataFrameModel](https://github.com/Marius9595/DataFrameModel)
-## 🚀 Public projects deployed
 ## 🗄️ Contributions
 ## 🥋 Katas
 * [String Calculator with Java](https://github.com/Marius9595/string_calculator_java)
