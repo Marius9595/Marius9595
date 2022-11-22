@@ -1,4 +1,4 @@
-# Hi there 👋 This is where I keep all my programming stuff 😄
+# Hi there 👋 This is where I keep some of my programming stuff 😄
 
 - I often train through katas applying TDD since I was lucky to be trainee at [Lean Mind](https://leanmind.es/es/)
 - I've collaborated with BigeroData project where I've developed software for Data engineering stuff and to handle IoT Devices (Raspeberry).
