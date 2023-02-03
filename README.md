@@ -8,8 +8,8 @@
 * [DataFrameModel](https://github.com/Marius9595/DataFrameModel)
 ## 🗄️ Contributions
 ## 🥋 Katas Solved
-[With TypeScript](https://github.com/Marius9595/Marius9595/blob/main/Katas%20with%20TypeScript.md)
-[With Java](https://github.com/Marius9595/Marius9595/blob/main/Katas%20with%20Java.md)
+- [With TypeScript](https://github.com/Marius9595/Marius9595/blob/main/Katas%20with%20TypeScript.md)
+- [With Java](https://github.com/Marius9595/Marius9595/blob/main/Katas%20with%20Java.md)
 <!--
 **Marius9595/Marius9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
