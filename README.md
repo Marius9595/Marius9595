@@ -3,13 +3,14 @@
   <span align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Marius9595&theme=react&hide_border=false&include_all_commits=true"></img>
   </span>
-  <span>-----</span>
+  <span style="margin:"10px"></span>
   <span align="center">
     <img style="width:35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius9595&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
   </span>
+    <span align="center">
+    <img style="width:80%;" src="https://github-readme-activity-graph.vercel.app/graph?username=Marius9595&theme=react-dark"></img>
+  </span>
 </p>
-
-
 
 
 
