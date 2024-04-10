@@ -1,6 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Marius9595&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariopintomiranda/) 
+[![](https://visitcount.itsvg.in/api?id=Marius9595&icon=0&color=0)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariopintomiranda/) 
 
 
 # Hi there! This is where I save part of my programming stuff 🤙
