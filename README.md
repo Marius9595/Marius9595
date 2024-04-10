@@ -1,13 +1,14 @@
 # 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Marius9595&theme=react&hide_border=false&include_all_commits=true"></img>
-<span>  </span>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marius9595&theme=react&hide_border=false"></img>
-<br>
 <p align="center" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius9595&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+  <span align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marius9595&theme=react&hide_border=false&include_all_commits=true"></img>
+  </span>
+  <span>-----</span>
+  <span align="center">
+    <img style="width:35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius9595&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+  </span>
 </p>
-</p>
+
 
 
 
