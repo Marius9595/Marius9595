@@ -11,10 +11,13 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center" >
-    <img src="stats_board.svg"></img>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Marius9595&theme=react&hide_border=false&include_all_commits=true"></img>
 </p>
 
+<p align="center">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius9595&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+</p>
 
 ## 💻 Tech Stack:
 <h3 align="center">Programming</h3>
