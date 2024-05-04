@@ -4,11 +4,6 @@
 # Hi there! This is where I save part of my programming stuff 🤙
 
 
-## Let's start with a smile today 
-<p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
-
 ## 📊 GitHub Stats:
 
 <p align="center">
