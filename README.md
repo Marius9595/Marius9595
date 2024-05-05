@@ -24,7 +24,7 @@
 
 <h3 align="center">Frameworks and libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,expressjs,bootstrap,dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,expressjs,bootstrap,dotnet,spring,astro" />
 </p>
 
 <h3 align="center">Databases</h3>
